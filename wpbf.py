@@ -18,7 +18,7 @@ def loadLst(fileName, lstName):
 if len(sys.argv) <= 1:
     print 'WP-Crack v1.0'
     print 'Website: https://kelelawarcyberteam.com'
-    print 'GMail   : cucuheker1337@gmail.com'
+    print 'Gmail  : cucuheker1337@gmail.com'
     print ''
     print 'Syntax: python WP-crack [-u USER|-U FILE] [-p PASS|-P FILE] -h URL [OPT]'
     print ''
@@ -38,7 +38,7 @@ if len(sys.argv) <= 1:
 
 print 'WP-Crack 1.0'
 print 'Website: https://kelelawarcyberteam.com'
-print 'GMail   : cucuheker1337@gmail.com'
+print 'Gmail  : cucuheker1337@gmail.com'
 
 #
 #define variables
