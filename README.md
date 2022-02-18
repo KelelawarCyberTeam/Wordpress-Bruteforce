@@ -3,7 +3,7 @@
 <img src="https://l.top4top.io/p_2240nm0hp0.png" width="400" height="350" alt="kelelawar cyber team">
 <br>
 
-# Perintah Menjalankan: 
+# Perintah: 
 <div class="snippet-clipboard-content position-relative overflow-auto">
 <pre><code>
 $ pkg update && pkg upgrade
